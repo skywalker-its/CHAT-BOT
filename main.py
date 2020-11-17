@@ -53,7 +53,7 @@ if maths == 1:
   print("Now, from 25 students, 18 students like maths")
   print("Thus, the number of students who do not like maths = 25 – 18 = 7 students ^_^")
   print("")
-  print("sorry, but not i gotta tired we can continue tomorrow byee 👋")
+  print("sorry, but now i get tired we can continue tomorrow byee 👋")
   ans = input()
   print("GIVE THE FEEDBACK ON THIS CHAT")
   FEEDBACK = input()
