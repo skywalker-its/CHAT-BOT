@@ -24,7 +24,7 @@ print("")
 print("Do u like maths?")
 print("\n 1. Yes , 2. No")
 maths = int(input())
-if maths == "yes":
+if maths == 1:
   print("oh woww so let's take ur maths test")
   print("r u ready")
   print("Q1. 9876543210 + 0123456789")
@@ -62,7 +62,7 @@ if maths == "yes":
   print()
   print("THANKS FOR THE FEEDBACK FRIEND :)")
 
-elif maths == "no":
+elif maths == 2:
    print("ohk no problem ")
 
 print("well bye-bye👋")
